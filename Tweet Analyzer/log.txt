@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-26T12:44:31</date>
+  <millis>1516988671419</millis>
+  <sequence>0</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1516988671419: all_tweets.txt, states.csv, log.txt</message>
+</record>
+<record>
+  <date>2018-01-26T12:44:36</date>
+  <millis>1516988676197</millis>
+  <sequence>1</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988676197: 1</message>
+</record>
+<record>
+  <date>2018-01-26T12:44:42</date>
+  <millis>1516988682858</millis>
+  <sequence>2</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988682858: 2</message>
+</record>
+<record>
+  <date>2018-01-26T12:44:49</date>
+  <millis>1516988689131</millis>
+  <sequence>3</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>popularState</method>
+  <thread>1</thread>
+  <message>1516988689130: chaka</message>
+</record>
+<record>
+  <date>2018-01-26T12:44:56</date>
+  <millis>1516988696623</millis>
+  <sequence>4</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>popularState</method>
+  <thread>1</thread>
+  <message>1516988696623: new jersey</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:03</date>
+  <millis>1516988703281</millis>
+  <sequence>5</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988703281: 3</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:05</date>
+  <millis>1516988705160</millis>
+  <sequence>6</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>tweetsPerHour</method>
+  <thread>1</thread>
+  <message>1516988705160: hey</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:10</date>
+  <millis>1516988710683</millis>
+  <sequence>7</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988710683: 4</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:10</date>
+  <millis>1516988710683</millis>
+  <sequence>8</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988710683: program ended</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-26T12:45:48</date>
+  <millis>1516988748912</millis>
+  <sequence>0</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1516988748911: all_tweets.txt, states.csv, log.txt</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:52</date>
+  <millis>1516988752243</millis>
+  <sequence>1</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988752243: 1</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:54</date>
+  <millis>1516988754569</millis>
+  <sequence>2</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988754569: 4</message>
+</record>
+<record>
+  <date>2018-01-26T12:45:54</date>
+  <millis>1516988754570</millis>
+  <sequence>3</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988754570: program ended</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-26T12:47:09</date>
+  <millis>1516988829259</millis>
+  <sequence>0</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1516988829259: all_tweets.txt, states.csv, log.txt</message>
+</record>
+<record>
+  <date>2018-01-26T12:47:15</date>
+  <millis>1516988835252</millis>
+  <sequence>1</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516988835252: 3</message>
+</record>
+<record>
+  <date>2018-01-26T12:47:25</date>
+  <millis>1516988845252</millis>
+  <sequence>2</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>tweetsPerHour</method>
+  <thread>1</thread>
+  <message>1516988845252: aman</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-26T15:25:47</date>
+  <millis>1516998347070</millis>
+  <sequence>0</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1516998347069: all_tweets.txt, states.csv, log.txt</message>
+</record>
+<record>
+  <date>2018-01-26T15:25:52</date>
+  <millis>1516998352717</millis>
+  <sequence>1</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998352717: 1</message>
+</record>
+<record>
+  <date>2018-01-26T15:28:21</date>
+  <millis>1516998501352</millis>
+  <sequence>2</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998501352: 1</message>
+</record>
+<record>
+  <date>2018-01-26T15:28:39</date>
+  <millis>1516998519143</millis>
+  <sequence>3</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998519143: 1</message>
+</record>
+<record>
+  <date>2018-01-26T15:28:44</date>
+  <millis>1516998524852</millis>
+  <sequence>4</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998524852: 1</message>
+</record>
+<record>
+  <date>2018-01-26T15:28:55</date>
+  <millis>1516998535052</millis>
+  <sequence>5</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998535052: 2</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:00</date>
+  <millis>1516998540863</millis>
+  <sequence>6</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>popularState</method>
+  <thread>1</thread>
+  <message>1516998540863: h</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:06</date>
+  <millis>1516998546748</millis>
+  <sequence>7</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>popularState</method>
+  <thread>1</thread>
+  <message>1516998546748: wyoming</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:12</date>
+  <millis>1516998552887</millis>
+  <sequence>8</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998552886: 2</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:16</date>
+  <millis>1516998556320</millis>
+  <sequence>9</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>popularState</method>
+  <thread>1</thread>
+  <message>1516998556320: new jersey</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:22</date>
+  <millis>1516998562778</millis>
+  <sequence>10</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998562778: 2</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:27</date>
+  <millis>1516998567174</millis>
+  <sequence>11</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>popularState</method>
+  <thread>1</thread>
+  <message>1516998567174: pennsylvania</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:41</date>
+  <millis>1516998581910</millis>
+  <sequence>12</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998581910: 3</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:44</date>
+  <millis>1516998584417</millis>
+  <sequence>13</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>tweetsPerHour</method>
+  <thread>1</thread>
+  <message>1516998584417: aman</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:49</date>
+  <millis>1516998589662</millis>
+  <sequence>14</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998589662: 3</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:51</date>
+  <millis>1516998591425</millis>
+  <sequence>15</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>tweetsPerHour</method>
+  <thread>1</thread>
+  <message>1516998591425: aman</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:57</date>
+  <millis>1516998597322</millis>
+  <sequence>16</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998597322: 4</message>
+</record>
+<record>
+  <date>2018-01-26T15:29:57</date>
+  <millis>1516998597323</millis>
+  <sequence>17</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998597323: program ended</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-01-26T15:30:40</date>
+  <millis>1516998640435</millis>
+  <sequence>0</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1516998640435: all_tweets.txt, states.csv, log.txt</message>
+</record>
+<record>
+  <date>2018-01-26T15:30:44</date>
+  <millis>1516998644680</millis>
+  <sequence>1</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998644680: 4</message>
+</record>
+<record>
+  <date>2018-01-26T15:30:44</date>
+  <millis>1516998644684</millis>
+  <sequence>2</sequence>
+  <logger>edu.upenn.cis350.hwk1.Main</logger>
+  <level>INFO</level>
+  <class>edu.upenn.cis350.hwk1.Main</class>
+  <method>menu</method>
+  <thread>1</thread>
+  <message>1516998644684: program ended</message>
+</record>
+</log>
